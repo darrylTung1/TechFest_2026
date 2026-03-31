@@ -40,4 +40,4 @@ A career planning web app built for TechFest 2026. CareerOS helps users build a 
 
 ## License
 
-MIT
+Copyright 2026 Darryl. All rights reserved.
